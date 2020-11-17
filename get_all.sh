@@ -1,0 +1,1 @@
+git clone -o bank https://github.com/Kovalsky95/bank.git
